@@ -1,0 +1,8 @@
+numpy
+plotly
+underthesea
+datasets
+wordcloud
+transformers
+torch
+streamlit
